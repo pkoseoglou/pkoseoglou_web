@@ -1,17 +1,10 @@
 # Pavlos Koseoglou academic website
 
-Upload the contents of this folder to the root of the GitHub repository. The repository must be public on GitHub Free for GitHub Pages.
+The original design is preserved. This update adds:
 
-## Editing
+- Publications link to Google Scholar
+- Classes section with PHYS351 and PHYS136
+- Student office hours in the Contact section
+- Google Analytics ID `G-2GMNB56BF7`
 
-- Main text and sections: `index.html`
-- Colors and layout: `assets/css/style.css`
-- Images: `assets/images/`
-- Each section in `index.html` has a clear comment.
-- To add a class, copy one complete `<article>...</article>` block inside the `CLASSES` section and change the Greek title and `href` URL.
-- To change student office hours, find the `CONTACT AND OFFICE HOURS` comment.
-- Google Analytics is installed with Measurement ID `G-2GMNB56BF7`.
-
-## Publish
-
-GitHub repository → Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
+Replace only `index.html` and `assets/css/style.css` in the existing repository. Keep the existing `assets/images/` folder.
